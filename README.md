@@ -16,3 +16,8 @@ see train.py and for more details.
 # Test
 
 see test.py and for more details.
+
+#web demo
+
+our demo website can be accessed at https://huggingface.co/spaces/nmyz/MWTdemo
+
