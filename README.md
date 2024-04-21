@@ -24,7 +24,7 @@ see test.py and for more details.
 our demo website can be accessed at https://huggingface.co/spaces/nmyz/MWTdemo
 
 Please cite the repo if you use the data or code in this repo.
-···
+``` 
 @article{yi2024multi,
   title={Multi-scale Window Transformer for Cervical Cytopathology Image Recognition},
   author={Yi, Jiaxiang and Liu, Xiuli and Cheng, Shenghua and Chen, Li and Zeng, Shaoqun},
@@ -32,4 +32,4 @@ Please cite the repo if you use the data or code in this repo.
   year={2024},
   publisher={Elsevier}
 }
-···
+``` 
